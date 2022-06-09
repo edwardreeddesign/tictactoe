@@ -6,7 +6,7 @@ import Board from "../elements/Board";
 
 const Home: NextPage = () => {
   return (
-    <div className={styles.container}>
+    <div>
       <Head>
         <title>Tic Tac Toe</title>
         <meta name='Tic Tac Toe game ' content='Edward Reed Designs' />
